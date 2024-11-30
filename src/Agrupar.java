@@ -77,7 +77,7 @@ public class Agrupar {
                     frecuencias[i],puntosM[i],frecuenciaAcumulada[i],frecuenciaRelativa[i],frecuenciaRA[i],porcentaje[i]);
         }
         System.out.println("-----------------------------------------------------------------------------------------");
-        System.out.println("Total:  \t\t\tn = "+n+" \t\t\t\t\t\t\t\t\t\tfr = "+ totalFr+" \t\t\t\t% = "+Math.round(totalPorcentaje));
+        System.out.println("Total:  \t\t\tn = "+n+" \t\t\t\t\t\t\tfr = "+ totalFr+" \t\t\t\t% = "+Math.round(totalPorcentaje));
 
 
         
